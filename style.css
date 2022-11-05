@@ -1,0 +1,16 @@
+/* css reset */
+*{
+  margin:0;
+  padding: 0;
+
+}
+.sidebar{
+  background-color: bisque;
+}
+.main
+{
+  background-color: aquamarine;
+}
+.container{
+display: flex;
+}
