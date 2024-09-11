@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Luminosity Drone",
+    "description": "A drone project developed using Gazebo, Ubuntu, VSCode, OpenCV, and Python, focusing on drone control and image processing algorithms.",
+    "github": "https://github.com/kundan-kumar/luminosity-drone",
+    "live": "https://luminosity-drone-live-link.com",
+    "image": "/images/luminosity-drone.jpg"
+  },
+  {
+    "name": "Technoloop Jobs",
+    "description": "A React-based job portal where recruiters can post jobs and job seekers can apply. The application also tracks the status of applications.",
+    "github": "https://github.com/kundan-kumar/technoloop-jobs",
+    "live": "https://technoloop-jobs-live-link.com",
+    "image": "/images/technoloop-jobs.jpg"
+  },
+  {
+    "name": "Mysterious Message",
+    "description": "An anonymous feedback platform built using Next.js and Tailwind CSS, with AI-based message analysis.",
+    "github": "https://github.com/kundan-kumar/mysterious-message",
+    "live": "https://mysterious-message-live-link.com",
+    "image": "/images/mysterious-message.jpg"
+  },
+  {
+    "name": "Backend Project",
+    "description": "A backend project focusing on building REST APIs using Node.js and Express, with database integration (PostgreSQL) and authentication.",
+    "github": "https://github.com/kundan-kumar/backend-project",
+    "live": "https://backend-project-live-link.com",
+    "image": "/images/backend-project.jpg"
+  }
+]

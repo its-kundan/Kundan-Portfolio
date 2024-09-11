@@ -10,8 +10,12 @@ This is a portfolio website built with Next.js and Tailwind CSS. It showcases yo
 
 ## Usage
 
+<<<<<<< HEAD
 1. Start the development server: `npm run dev`
 2. Open your browser and visit `http://localhost:3000` to view the website.
+=======
+You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+>>>>>>> 5e38421142a71afe7f4c744c9e143bd58cba2039
 
 ## Dependencies
 
